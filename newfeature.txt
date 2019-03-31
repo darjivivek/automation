@@ -1,1 +1,1 @@
-This is newfeature in our code
+This is newfeature in our code.
